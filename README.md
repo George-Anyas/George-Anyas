@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George-Anyas
+- 👋 Hi, I’m @George-Soliman
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...dart and flutter
 - 💞️ I’m looking to collaborate on ...
